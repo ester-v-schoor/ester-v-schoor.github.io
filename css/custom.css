@@ -1,0 +1,13 @@
+#site-head {
+	background-color: #212121;
+}
+
+a.btn {
+	background-color: #212121;
+	border: 1px solid white;
+}
+
+a.btn:hover {
+	background-color: white;
+	color:  #212121;
+}
